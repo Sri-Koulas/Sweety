@@ -1,2 +1,2 @@
 # Sweety
-To testing purpose
+To testing purpose and This is my first created repository
